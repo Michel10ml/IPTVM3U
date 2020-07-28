@@ -6,9 +6,9 @@
 	"name": "iptv.org"
 },
 {
-	"url": "https://raw.githubusercontent.com/sunanveera/suve/master/channel/camera_pp.m3u", 
+	"url": "https://github.com/Sphinxroot/M3U-URL/blob/master/Fluxus.tv/Index.m3u", 
 	"logos": "", 
 	"image": "", 
-	"name": "Phnom Penh EZECOM Camera"
+	"name": "Fluxus.tv"
 }
 ]
