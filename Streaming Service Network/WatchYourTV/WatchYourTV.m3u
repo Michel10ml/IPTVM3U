@@ -1,0 +1,152 @@
+﻿EXTM3U
+
+
+# https://www.watchyour.tv/channels.php
+#EXTINF:-1 tvg-logo="http://www.watchyour.tv/images/logo-dark@2x.png" group-title="",★★★★★★★★★★[COLOR green]Watch[/COLOR][COLOR orange]Your[/COLOR][COLOR green].[/COLOR][COLOR red]TV[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-boxing-network.jpg" group-title="Sports",TVS Boxing Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-cartoon-network.jpg" group-title="Kids & Family",TVS Cartoon Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-TVSCartoonNetwork/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-classic-sports.jpg" group-title="Sports",TVS Classic Sports
+http://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
+http://nrpus.bozztv.com/36bay2/gusa-tvs/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-classic-movies.png" group-title="Movies",TVS Classic Movies
+https://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/.jpg" group-title="Home Shopping",TVS Consumer Direct
+https://nrpus.bozztv.com/36bay2/gusa-ConsumerDirect/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-ConsumerDirect/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-drive-in-movie.jpg" group-title="Movies",TVS Drive In Movie
+https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-family-channel.jpg" group-title="Kids & Family",TVS Family Channel
+https://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-film-noir-network.jpg" group-title="Movies",TVS Film Noir Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-TVSFilmNoir/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-flashback-network.jpg" group-title="Entertainment",TVS Flashback Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-front-page-detective-.jpg" group-title="TV Classics",TVS Front Page Detective
+https://nrpus.bozztv.com/36bay2/gusa-tvsfrontpagedetective/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvsfrontpagedetective/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-frontier.jpg" group-title="TV Classics",TVS Frontier
+https://nrpus.bozztv.com/36bay2/gusa-tvsfrontier/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvsfrontier/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-hi-tops.jpg" group-title="Kids & Family",TVS Hi Tops
+https://nrpus.bozztv.com/36bay2/gusa-hitops/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-hitops/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-hollywood-history.jpg" group-title="Mixed Programming",TVS Hollywood History
+https://nrpus.bozztv.com/36bay2/gusa-tvshollywoohistory/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvshollywoohistory/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-horror.jpg" group-title="Movies",TVS Horror
+https://nrpus.bozztv.com/36bay2/gusa-tvshorror/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvshorror/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-inspirational-network.jpg" group-title="Kids & Family",TVS Inspirational Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSInspirationalNetwork/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-TVSInspirationalNetwork/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/jewelry-television.jpg" group-title="Home Shopping",Jewelry Television
+https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
+https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/9pb3bfjq/1728/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-main-street.jpg" group-title="Mixed Programming",TVS Main Street
+https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-music-network.jpg" group-title="Entertainment",TVS Music Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsmusic/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvsmusic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-mystery-network.jpg" group-title="TV Classics",TVS Mystery Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsmystery/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvsmystery/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-nostalgia.jpg" group-title="Entertainment",TVS Nostalgia
+https://nrpus.bozztv.com/36bay2/gusa-nostalgia/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-nostalgia/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-nostalgia-movies.jpg" group-title="Movies",TVS Nostalgia Movie Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/pet-parade-network.jpg" group-title="Kids & Family",Pet Parade Network
+https://nrpus.bozztv.com/36bay2/gusa-petparadenetwork/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-petparadenetwork/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-game-show-network.jpg" group-title="Kids & Family",TVS Quiz Show Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsgameshow/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvsgameshow/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/rare-collectibles-televison.jpg" group-title="Home Shopping",TVS Rare Collectibles Televison
+https://nrpus.bozztv.com/36bay2/gusa-tvsrarecollectibles/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvsrarecollectibles/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-select-network.jpg" group-title="Mixed Programming",TVS Select Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsselect/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvsselect/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-sports-bureau.jpg" group-title="Sports",TVS Sports Bureau
+https://nrpus.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvssportsbureau/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-sports-network.jpg" group-title="Sports",TVS Sports Network
+https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvssports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-comedy-channel.jpg" group-title="Entertainment",TVS Sitcom
+https://nrpus.bozztv.com/36bay2/gusa-tvscomedy/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvscomedy/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-tally-ho.jpg" group-title="Entertainment",TVS Tally Ho
+https://nrpus.bozztv.com/36bay2/gusa-tvstallyho/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvstallyho/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-tavern-tv.jpg" group-title="Mixed Programming",TVS Tavern TV
+https://nrpus.bozztv.com/36bay2/gusa-tavern/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tavern/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-television-network.jpg" group-title="Mixed Programming",TVS Television Network
+https://nrpus.bozztv.com/36bay2/gusa-tvstn/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvstn/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-today-home-entertainment-network.jpg" group-title="Mixed Programming",TVS Today Home Entertainment Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSTodayHomeEntertainment/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-TVSTodayHomeEntertainment/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-travel-network.jpg" group-title="Entertainment",TVS Travel Network
+https://nrpus.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvstravel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-turbo-network.jpg" group-title="Sports",TVS Turbo Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/.png" group-title="Movies",TVS Western Movie
+https://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-women-s-sports-network.jpg" group-title="Sports",TVS Women's Sports Network
+https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvswsn/tracks-v1a1/mono.m3u8
+
+##########

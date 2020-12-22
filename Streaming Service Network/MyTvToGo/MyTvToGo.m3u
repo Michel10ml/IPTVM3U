@@ -1,0 +1,417 @@
+﻿#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2017/05/Logo_Header_1x_MyTVToGo.png" group-title="",MyTvToGo
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_Action_Sports_4U.jpg" group-title="Movie Networks",Action Sports 4U
+https://nimble.dashstreams.net/onestudio/actionsportstv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/actionsportstv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2020/03/Network_Aljazeera_1280x720.jpg" group-title="News & Weather Networks",Al Jazeera
+https://live-hls-apps-aje.getaj.net/AJE/index.m3u8
+https://live-hls-apps-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/AppleSauce_Network_1280x720.jpg" group-title="Movie Networks",Apple Sauce TV
+https://nimble.dashstreams.net/onestudio/applesaucetv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/applesaucetv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/09/Network_AmericanClassicTV_1280x720.jpg" group-title="Classic TV Networks",American Classic
+https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/americanclassictv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2020/02/American-Horrors-1280x720-1.jpg" group-title="Movie Networks",American Horrors
+https://nimble.dashstreams.net/onestudio/americanhorrors/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/americanhorrors/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/12/Network_Australian_News_Channel_1280x720.jpg" group-title="News & Weather Networks",Australian News Channel
+https://nimble.dashstreams.net/onestudio/australianewschannel/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/australianewschannel/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/banHONh.png" group-title="Music TV Networks",Auto Play TV
+https://nimble.dashstreams.net/onestudio/aptv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/aptv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2020/08/Logo_AWE_Encore_Network-196x126.jpg" group-title="Lifestyle TV Networks",AWE Encore
+https://nimble.dashstreams.net/onestudio/aweencore/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/aweencore/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_BCTV.jpg" group-title="Urban TV Networks",BCTV
+https://nimble.dashstreams.net/onestudio/blackmedia/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/blackmedia/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/10/Network_BeachCoastTV_1280x720.jpg" group-title="Lifestyle TV Networks",Beach Coast TV
+https://nimble.dashstreams.net/onestudio/beachtveastcoast/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/beachtveastcoast/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_BlackMusicArtist.jpg" group-title="Urban TV Networks",Black Music Artist TV
+https://nimble.dashstreams.net/onestudio/blackmusicartist/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/blackmusicartist/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_BlackWidowTV_1280x720.jpg" group-title="Classic TV Networks",Black Widow TV
+https://nimble.dashstreams.net/onestudio/blackwidowtv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/blackwidowtv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Bluegrass_4U.jpg" group-title="Music TV Networks",Bluegrass Music 4U
+https://nimble.dashstreams.net/onestudio/bluegrassmusic4u/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/bluegrassmusic4u/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/10/Network_BlushRomanceTV_1280x720.jpg" group-title="Movie Networks",Blush Romance TV
+https://nimble.dashstreams.net/onestudio/blushtv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/blushtv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/08/Network_BreakingTheBreadTV.jpg" group-title="Faith Based TV Networks",Breaking The Bread TV
+https://nimble.dashstreams.net/onestudio/breakingthebread/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/breakingthebread/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2020/02/Logo-bespoketv_MYTVTG_1280x720-e1584836261169.jpg" group-title="Lifestyle TV Networks",bspoketv
+https://bspoketv.s.llnwi.net/streams/scheduler2/master.m3u8
+https://bspoketv.s.llnwi.net/streams/scheduler2/out_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Network_BTV.jpg" group-title="Faith Based TV Networks",BTV
+https://nimble.dashstreams.net/onestudio/btvnetwork/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/btvnetwork/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_CaliforniaMusicChannel.jpg" group-title="Music TV Networks",California Music Channel
+https://nimble.dashstreams.net/onestudio/californiamusicchannel/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/californiamusicchannel/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/06/Network_CameraSmileTV.jpg" group-title="Lifestyle TV Networks",Camera Smile TV
+https://nimble.dashstreams.net/onestudio/camerasmile/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/camerasmile/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Network_Cartoons_4U-1.jpg" group-title="Children’s TV Networks",Cartoons 4U
+https://nimble.dashstreams.net/onestudio/cartoons_4u/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/cartoons_4u/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/06/Network_CBN_News.jpg" group-title="News & Weather Networks",CBN News
+https://nimble.dashstreams.net/onestudio/cbnnews/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/cbnnews/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/06/Network_CelebrityScene.jpg" group-title="Lifestyle TV Networks",Celebrity Scene TV
+https://nimble.dashstreams.net/onestudio/celebrityscene/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/celebrityscene/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_ClassicArtsShowcase.jpg" group-title="Music TV Networks",Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/05/Network_ContemporaryChristianMusic_4U.jpg" group-title="Music TV Networks",Contemporary Christian Music 4U
+https://nimble.dashstreams.net/onestudio/contemporarychristian/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/contemporarychristian/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_Cooking4U_1280x720.jpg" group-title="Lifestyle TV Networks",Cooking 4U
+https://nimble.dashstreams.net/onestudio/cooking_4u_network/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/cooking_4u_network/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_ClassicTV4U_1280x720.jpg" group-title="Classic TV Networks",Classic TV 4U
+https://nimble.dashstreams.net/onestudio/classictv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/classictv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/09/Network_CornerStone_1280x720.jpg" group-title="Faith Based TV Networks",CornerStone TV
+https://nimble.dashstreams.net/onestudio/cornerstonetv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/cornerstonetv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_CountryMusic4U_1280x720.jpg" group-title="Music TV Networks",Country Music 4U
+https://nimble.dashstreams.net/onestudio/countrymusic4u/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/countrymusic4u/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_DayStar.jpg" group-title="Faith Based TV Networks",Daystar
+https://nimble.dashstreams.net/onestudio/daystar/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/daystar/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Documentaries_4U.jpg" group-title="Movie Networks",Documentaries 4U
+https://nimble.dashstreams.net/onestudio/documentaries4u/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/documentaries4u/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/10/Network_DreamTV_1280x720.jpg" group-title="Music TV Networks",Dream TV
+https://nimble.dashstreams.net/onestudio/dreamtv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/dreamtv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/04/Network_EnergyTV_1280x720.jpg" group-title="Lifestyle TV Networks",Energy Network
+https://nimble.dashstreams.net/onestudio/energytv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/energytv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_Exercise_4U.jpg" group-title="Lifestyle TV Networks",Exercise 4U
+https://nimble.dashstreams.net/onestudio/exercise_4u_tv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/exercise_4u_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/06/Network_EZWay.jpg" group-title="Lifestyle TV Networks",EZWay TV
+https://nimble.dashstreams.net/onestudio/ezwaytv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/ezwaytv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2020/02/Network_Faith_USA_1280x720.jpg" group-title="Faith Based TV Networks",Faith USA
+https://nimble.dashstreams.net/onestudio/faithusa/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/faithusa/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_FamilyTV4U_1280x720.jpg" group-title="Movie Networks",Family TV 4U
+https://nimble.dashstreams.net/onestudio/familytv4u/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/familytv4u/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/12/Network_Fashion_TV_Paris_1280x720.jpg" group-title="Lifestyle TV Networks",Fashion TV Paris
+https://nimble.dashstreams.net/onestudio/hdfashionlifestyle/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/hdfashionlifestyle/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ufm31ag.png" group-title="Classic TV Networks",Fight Plus TV
+https://nimble.dashstreams.net/onestudio/fightplustv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/fightplustv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2020/02/GLC_LOGO_1280x720.jpg" group-title="Faith Based TV Networks",God’s Learning Channel
+https://nimble.dashstreams.net/onestudio/godslearningchannel/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/godslearningchannel/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_GoingToWar.jpg" group-title="Movie Networks",Going To War
+https://nimble.dashstreams.net/onestudio/going_to_war/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/going_to_war/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/04/1280x720_GoneFishing.jpg" group-title="Lifestyle TV Networks",Gone Fishing
+https://nimble.dashstreams.net/onestudio/gonefishing/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/gonefishing/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/10/Network_GoneFishingOffshore_1280x720.jpg" group-title="Lifestyle TV Networks",Gone Fishing Offshore
+https://nimble.dashstreams.net/onestudio/FishingOffshore30a/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/FishingOffshore30a/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/04/1280x720_GoneHunting.jpg" group-title="Lifestyle TV Networks",Gone Hunting
+https://nimble.dashstreams.net/onestudio/hunting/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/hunting/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_GoodLife45-196x126.jpg" group-title="Faith Based TV Networks",Good Life 45
+https://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist.m3u8
+https://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/GospelMusic4U_1280x720.jpg" group-title="Music TV Networks",Gospel Music 4U
+https://nimble.dashstreams.net/onestudio/gospel_4u/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/gospel_4u/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2020/02/Network_Fashion_Lifestyle_1280x720.jpg" group-title="Lifestyle TV Networks",HD Fashion & Lifestyle
+https://nimble.dashstreams.net/onestudio/hdfashionlifestyle/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/hdfashionlifestyle/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/08/Network_HisPraiseTV_1280x720.jpg" group-title="Faith Based TV Networks",His Praise TV
+https://nimble.dashstreams.net/onestudio/hispraisetv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/hispraisetv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_HorrifiedTV-1.jpg" group-title="Movie Networks",Horrified TV
+https://nimble.dashstreams.net/onestudio/horrified/playlist.m3u8	
+https://nimble.dashstreams.net/onestudio/horrified/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Network_HouseOfRefuge-1.jpg" group-title="Faith Based TV Networks",House Of Refuge
+https://nimble.dashstreams.net/onestudio/blessing/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/blessing/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2020/04/Network_Human_Wellness_1280x720.jpg" group-title="Lifestyle TV Networks",Human Wellness
+https://nimble.dashstreams.net/onestudio/humanwellnesstv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/humanwellnesstv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Network_ImpactTV.jpg" group-title="Faith Based TV Networks",Impact
+https://nimble.dashstreams.net/onestudio/impacttv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/impacttv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Network_KartoonFunTime.jpg" group-title="Children’s TV Networks",Kartoon Fun Time
+https://nimble.dashstreams.net/onestudio/kartoonfuntime/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/kartoonfuntime/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/09/Logo-KLNM-Smaller.jpg" group-title="Movie Networks",KLNM TV
+https://nimble.dashstreams.net/onestudio/jerrymiller/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/jerrymiller/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/10/Network_LetsBuildTogether_1280x720.jpg" group-title="Lifestyle TV Networks",Let’s Build Together
+https://nimble.dashstreams.net/onestudio/letsbuildtv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/letsbuildtv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/04/Network_LetsGoToTheMovies_1280x769.jpg" group-title="Movie Networks",Let’s Go To The Movies
+https://nimble.dashstreams.net/onestudio/its_comming_soon/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_LetsTalkAboutIt.jpg" group-title="Movie Networks",Let’s Talk About It
+https://nimble.dashstreams.net/onestudio/lets_talk_about_it/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/lets_talk_about_it/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Logo-Life-TV-1280.720.png" group-title="Faith Based TV Networks",Life TV
+https://nimble.dashstreams.net/onestudio/lifetv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/lifetv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_LivingOutdoors.jpg" group-title="Lifestyle TV Networks",Living Outdoors
+https://nimble.dashstreams.net/onestudio/Living_Outdoors/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/Living_Outdoors/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/12/Network_Models_Inc_1280x720.jpg" group-title="Lifestyle TV Networks",Models Inc.
+https://nimble.dashstreams.net/onestudio/modelsinc/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/modelsinc/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/06/MoLaughter_Network_1280x720.jpg" group-title="Movie Networks",Mo Laughter
+https://nimble.dashstreams.net/onestudio/molaughter/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/molaughter/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_Movee4U-e1543430006694.jpg" group-title="Movie Networks",Movee 4U
+https://nimble.dashstreams.net/onestudio/movee4u/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/movee4u/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/07/LatinMusic_4U_Spanish.jpg" group-title="Music TV Networks",Musica Latina Para Ti
+https://nimble.dashstreams.net/onestudio/latinmusic4u/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/latinmusic4u/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Network_MyHolyfield_TV.jpg" group-title="Movie Networks",MyHolyfield TV
+https://nimble.dashstreams.net/onestudio/holyfield/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/holyfield/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_MyJam_MusicNetwork.jpg" group-title="Music TV Networks",MyJam Music Network
+https://nimble.dashstreams.net/onestudio/musicjam/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/musicjam/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/10/Network_My30A-TV_1280x720.jpg" group-title="Lifestyle TV Networks",My 30-A TV
+https://nimble.dashstreams.net/onestudio/my30atvLifestyle30a/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/my30atvLifestyle30a/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/10/Network_MyBeachTV_1280x720.jpg" group-title="Lifestyle TV Networks",My Beach TV
+https://nimble.dashstreams.net/onestudio/mybeachtv30a/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/mybeachtv30a/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_MyLifeTVNetwork.jpg" group-title="Lifestyle TV Networks",My Life 4U
+https://nimble.dashstreams.net/onestudio/lifetv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/lifetv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/10/Network_MyMusicChannel_1280x720-196x126.jpg" group-title="Music TV Networks",My Music Channel
+https://nimble.dashstreams.net/onestudio/mymusicchannel30a/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/mymusicchannel30a/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/10/Network_MyPitchNewsNetwork_1280x720.jpg" group-title="Lifestyle TV Networks",My Pitch News
+https://nimble.dashstreams.net/onestudio/pitchnews30a/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/pitchnews30a/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/12/Network_NASA_TV_1280x720.jpg" group-title="News & Weather Networks",NASA TV
+https://nimble.dashstreams.net/onestudio/nasa/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/nasa/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Logo-For-Channel-NBTV-Black-Background-logo-Small.jpeg" group-title="Faith Based TV Networks",New Beginning TV
+https://nimble.dashstreams.net/onestudio/nbtv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/nbtv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/12/Network_NewsMax_TV_1280x720.jpg" group-title="News & Weather Networks",NewsMax TV
+https://nimble.dashstreams.net/onestudio/newsmaxtv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/newsmaxtv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_NewsNet.jpg" group-title="News & Weather Networks",News Net
+https://nimble.dashstreams.net/onestudio/newsnet/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/newsnet/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/10/Network_TimesSquare_1280x720.jpg" group-title="Movie Networks",New York Times Square
+https://nimble.dashstreams.net/onestudio/newyork/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/newyork/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/09/Network_NothingScriptedNews_1280x720.jpg" group-title="Lifestyle TV Networks",Nothing Scripted News
+https://nimble.dashstreams.net/onestudio/nothingscripted30a/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/nothingscripted30a/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Logo-NPowered-April-002.png" group-title="Movie Networks",nPowered TV
+https://nimble.dashstreams.net/onestudio/npowered/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/npowered/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2020/08/Logo_OAN_Encore_Network.jpg" group-title="News & Weather Networks",OAN Encore
+https://nimble.dashstreams.net/onestudio/oannews/playlist.m3u8	
+https://nimble.dashstreams.net/onestudio/oannews/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3LEqi0D.png" group-title="Faith Based TV Networks",Opportunity Knocks
+https://nimble.dashstreams.net/onestudio/myoktv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/myoktv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_PCEN-2.jpg" group-title="Movie Networks",Planet Cannabis Entertainment
+https://nimble.dashstreams.net/onestudio/pce/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/pce/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_PCMN.jpg" group-title="Music TV Networks",Planet Cannabis Music
+https://nimble.dashstreams.net/onestudio/planetmusic/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/planetmusic/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/01/Network_PCSN-1.jpg" group-title="Lifestyle TV Networks",Planet Cannabis Shopping Network
+https://nimble.dashstreams.net/onestudio/planetshopping/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/planetshopping/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/09/Network_PraiseTV_1280x720.jpg" group-title="Faith Based TV Networks",Praise TV
+https://nimble.dashstreams.net/onestudio/praisetv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/praisetv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_PreachTheWordWorldwide.jpg" group-title="Faith Based TV Networks",Preach The Word Worldwide
+https://nimble.dashstreams.net/onestudio/preachtheword/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/preachtheword/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_PromiseTV.jpg" group-title="Faith Based TV Networks",Promise TV
+https://59d39900ebfb8.streamlock.net/promisetv/promisetv/playlist.m3u8
+https://59d39900ebfb8.streamlock.net/promisetv/promisetv/chunklist_w1997849629.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_ReallyTV.jpg" group-title="Movie Networks",Really TV
+https://nimble.dashstreams.net/onestudio/ReallyTv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/ReallyTv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/06/Network_TheRegalia.jpg" group-title="Movie Networks",Regalia TV
+https://nimble.dashstreams.net/onestudio/regalia_network/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/regalia_network/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_RightNowTV-1.jpg" group-title="Movie Networks",Right Now TV
+https://nimble.dashstreams.net/onestudio/rightnowtv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/rightnowtv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/11/Network_SafeTV_1280x720.jpg" group-title="Lifestyle TV Networks",Safe TV
+https://nimble.dashstreams.net/onestudio/safetv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/safetv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_SetFreeTV.jpg" group-title="Faith Based TV Networks",Set Free TV
+https://nimble.dashstreams.net/onestudio/setfreetv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/setfreetv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_SheTV.jpg" group-title="Movie Networks",She TV
+https://nimble.dashstreams.net/onestudio/She_Tv_Network/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/She_Tv_Network/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_Shopping_4U.jpg" group-title="Lifestyle TV Networks",Shopping 4U
+https://nimble.dashstreams.net/onestudio/shopping_4u/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/shopping_4u/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_SciFi4U.jpg" group-title="Movie Networks",Sci-Fi 4U
+https://nimble.dashstreams.net/onestudio/SciFiTV/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/SciFiTV/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/09/Network_SidewalksEntertainment_1280x720.jpg" group-title="Lifestyle TV Networks",Sidewalks Entertainment
+https://nimble.dashstreams.net/onestudio/sidewalks30a/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/sidewalks30a/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cGUEARM.png" group-title="Faith Based TV Networks",Spydar TV
+https://nimble.dashstreams.net/onestudio/spydar/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/spydar/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_SouthernGospel_4U.jpg" group-title="Music TV Networks",Southern Gospel 4U
+https://nimble.dashstreams.net/onestudio/SouthernGospelmusic/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/SouthernGospelmusic/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/StreetMusic_4U_1280x720.jpg" group-title="Music TV Networks",Street Music 4U
+https://nimble.dashstreams.net/onestudio/StreetMusic4U/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/StreetMusic4U/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_Travel_4U_1280x720.jpg" group-title="Lifestyle TV Networks",Travel 4U
+https://nimble.dashstreams.net/onestudio/travel4u/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/travel4u/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_UrbanMusic_4U.jpg" group-title="Music TV Networks",Urban Music 4U
+https://nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/UrbanMusic4U/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/01/Network_Weather_4U.jpg" group-title="News & Weather Networks",Weather 4U
+https://nimble.dashstreams.net/onestudio/weather4u/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/weather4u/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Westerns_4U.jpg" group-title="Movie Networks",Westerns 4U
+https://nimble.dashstreams.net/onestudio/western4u/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/western4u/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_WLPC.jpg" group-title="",WLPC Detroit
+https://nimble.dashstreams.net/onestudio/wlpc/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/wlpc/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/APGJc8I.jpg" group-title="Faith Based TV Networks",Wink TV
+https://nimble.dashstreams.net/onestudio/winktv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/winktv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/12/Your_Miracle_TV_1280x720.jpg" group-title="Faith Based TV Networks",Your Miracle TV
+https://nimble.dashstreams.net/onestudio/miraclechannel/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/miraclechannel/chunks.m3u8
+
