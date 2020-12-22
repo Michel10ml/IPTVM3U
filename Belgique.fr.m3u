@@ -1,0 +1,359 @@
+﻿#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/belge.png?raw=true",★★★★★★★★★★[COLOR orange]Belgique[/COLOR]★★★★★★★★★★
+plugin://plugin.video.youtube/play/?video_id=F109TZt3nRc
+
+
+
+# update link : #
+#EXTINF:-1 tvg-id="Belgique" tvg-name="Antenne Centre" tvg-logo="https://i.ibb.co/j8Ygd1k/Antenne-Centre.png" tvg-country="BE" group-title="Belgique",Antenne Centre
+https://tvl-live-prp.fl.freecaster.net/live/actv/actv.m3u8
+
+#EXTINF:-1 tvg-id="Belgique" tvg-name="Antenne Centre" tvg-logo="https://i.ibb.co/j8Ygd1k/Antenne-Centre.png" tvg-country="BE" group-title="Belgique",Antenne Centre (OPT-2)
+https://tvl-live-prp.fl.freecaster.net/live/actv/actv-audio_fre=128000-video=2600000.m3u8
+
+# update link : #
+#EXTINF:-1 tvg-id="Belgique" tvg-name="Bel RTL" tvg-logo="https://i.imgur.com/Yg7vRos.jpg" group-title="Belgique",Bel RTL
+http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
+
+# update link : #
+#EXTINF:-1 tvg-id="Belgique" tvg-name="BX1" tvg-logo="https://bx1.be/wp-content/themes/BX1-2017/img/logo.png" group-title="Belgique",BX1
+https://59959724487e3.streamlock.net/stream/live/chunklist_w1820098040.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YjKqWru.png" group-title="",BX1 (OPT-2)
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+
+# update link : #
+#EXTINF:-1 tvg-id="Belgique" tvg-name="CanalAlpha" tvg-logo="http://www.canalalpha.ch/wp-content/uploads/2012/12/logo-canalalpha-blanc.png" group-title="Belgique",CanalAlpha
+https://edge4.vedge.infomaniak.com/livecast/ik:canalalpha/chunklist_w1090298739_b2500000.m3u8
+
+# update link : #
+#EXTINF:-1 tvg-id="Belgique" tvg-name="Canal Zoom" tvg-logo="https://i2.wp.com/www.canalzoom.be/wp-content/uploads/cropped-canalzoom_logo_couleur_V2.png" group-title="Belgique",Canal Zoom
+http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist_w857378252_b2096000_slfra_t64NzIwcA==.m3u8
+
+# update link : #
+#EXTINF:-1 tvg-id="Belgique" tvg-name="Canal C" tvg-logo="https://www.canalc.be/wp-content/uploads/CanalC_Blanc_Transparent_pour-fond-sombre-3.png" group-title="Belgique",Canal C
+https://594a365b4a1b2.streamlock.net/canalc/_definst_/live/chunklist_w1160503303.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ETsDhb8.png" group-title="",Canal C (Opt-2)
+http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRYkNLF.png" group-title="",CLUB RTL
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Belgium/43e266952764fe0.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CtaumgE.png" group-title="",Eleven Sports 1 HD
+http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1874
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b5ziimv.png" group-title="",Eleven Sports 2 HD
+http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1875
+
+# update link : #
+#EXTINF:-1 tvg-id="Belgique" tvg-name="LN24" tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="Belgique",LN24
+https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
+
+# update link : #
+#EXTINF:-1 tvg-id="Belgique" tvg-name="MA Télé" tvg-logo="https://i.ibb.co/m48XZS7/matele.png" group-title="Belgique",MA Télé
+https://594a365b4a1b2.streamlock.net/matele/live/chunklist_w1148376481.m3u8
+
+# update link : #
+#EXTINF:-1 tvg-id="Belgique" tvg-name="NRJ Hits TV" tvg-logo="https://i.ibb.co/1ZvzXWP/NRJ-Hits.png" group-title="Belgique",NRJ Hits TV
+https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
+
+# update link : #
+#EXTINF:-1 tvg-id="Belgique" tvg-name="Notélé" tvg-logo="https://www.notele.be/webfiles/layout/logo.png" group-title="Belgique",Notélé
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1567084165.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NjxtF5D.png" group-title="",PLUG RTL
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Belgium/733387b5a23a543.m3u8|User-Agent=stream
+
+# https://www.radiobonheur.be/bonheurtv-test/  #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Na6uTsW.png" group-title="",Radio BonheurTV (TWITCH)
+plugin://plugin.video.twitch/?channel_id=471368155&amp;mode=play
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xsspfDW.png" group-title="",Radio Contact 102.2 FM Brussels
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radiocontact.be/GED/00110000/118600/118657.png" group-title="",Radio Contact (opt-2)
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ramdammusique.be/wp-content/uploads/2019/07/Logo_-long_400_web.png" group-title="",RamdamMusique (TWITCH)
+plugin://plugin.video.twitch/?channel_id=470473334&amp;mode=play
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wFKoZCw.jpg" group-title="",RFM Charleroi (TWITCH)
+plugin://plugin.video.twitch/?channel_id=506204176&amp;mode=play
+
+# update link : https://www.rtc.be/live #
+#EXTINF:-1 tvg-id="Belgique" tvg-name="RTC Liege" tvg-logo="https://i.ibb.co/p3zw6tG/RTC-Liege.png" group-title="Belgique",RTC Liege
+https://tvl-live-prp.fl.freecaster.net/live/rtc/rtc-audio_fre=128000-video=5200000.m3u8
+
+# update link : #
+#EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Une" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Une
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Belgium/b3c9e514aa3e795.m3u8|User-Agent=stream
+#https://rtbf.l3.freecaster.net/live/rtbf/geo/open/f252363574bc3708f9d58a351066da362d739a84/laune-audio_1=128000-video=2000000.m3u8
+
+#EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Une" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Une (TT)
+plugin://script.tvtap/play/693/play.pvr
+#plugin://script.module.tt/play/693/play.pvr
+
+# update link : #
+#EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Deux" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Deux
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Belgium/06292f4f61cba15.m3u8|User-Agent=stream
+#https://rtbf.l3.freecaster.net/live/rtbf/geo/open/012547ec984802a41c6cc2b2e4c81efdf8eff450/ladeux-audio_1=128000-video=2000000.m3u8
+
+#EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Deux" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Deux (TT)
+plugin://script.tvtap/play/694/play.pvr
+#plugin://script.module.tt/play/694/play.pvr
+
+# update link : #
+#EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Trois" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Trois
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Belgium/1a13b4cb28271fa.m3u8|User-Agent=stream
+#https://rtbf.l3.freecaster.net/live/rtbf/geo/open/28f7277cdd5c10567637ec1c10d59eda5b443c9e/latrois-audio_1=128000-video=2000000.m3u8
+
+#EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Trois" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Trois (TT)
+plugin://script.tvtap/play/695/play.pvr
+#plugin://script.module.tt/play/695/play.pvr
+
+# update link : #
+#EXTINF:-1 tvg-id="Belgique" tvg-name="RTL-TVi BE" tvg-language="French" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-country="BE" tvg-group-title="",RTL-TVi
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Belgium/1a0c55209dd476b.m3u8|User-Agent=stream
+#http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+
+#EXTINF:-1 tvg-id="Belgique" tvg-name="RTL-TVi BE" tvg-language="French" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-country="BE" tvg-group-title="",RTL-TVi (TT)
+plugin://script.tvtap/play/692/play.pvr
+
+#EXTINF:-1 tvg-id="Belgique" tvg-name="RTL-TVi BE" tvg-language="French" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-country="BE" tvg-group-title="",RTL info 1 (TT)
+plugin://script.tvtap/play/690/play.pvr
+#plugin://script.module.tt/play/690/play.pvr
+
+# update link : #
+#EXTINF:-1 tvg-id="Belgique" tvg-name="Tv Com" tvg-logo="https://www.tvcom.be/files/images/logotvcom.png"group-title="Belgique",TvCom
+https://5a0b00d270652.streamlock.net/live/tvcom-live/chunklist_w396605632.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W0NWUzv.png" group-title="",TVCom
+https://5a0b00d270652.streamlock.net/live/tvcom-live/playlist.m3u8
+
+# update link : #
+#EXTINF:-1 tvg-id="Belgique" tvg-name="TV Lux" tvg-logo="https://www.tvlux.be/images/logo-TVLux-Naturellement-Proche-2017.png" group-title="Belgique",TV Lux
+https://tvl-live-prp.fl.freecaster.net/live/tvlux/tvlux-audio_fre=128000-video=5200000.m3u8
+
+# update link :  #
+#EXTINF:-1 tvg-id="Belgique" tvg-name="Télé MB" tvg-logo="https://www.telemb.be/sites/telemb.easydev.be/files/telemb_logo.png" group-title="Belgique",Télé MB
+https://tvl-live-prp.fl.freecaster.net/live/telemb/telemb-audio_fre=128000-video=2500000.m3u8
+
+# update link : #
+#EXTINF:-1 tvg-id="Belgique" tvg-name="Telesambre" tvg-logo="https://www.telesambre.be/sites/telesambre.easydev.be/files/logotls.png" group-title="Belgique",Telesambre
+https://tvl-live-prp.fl.freecaster.net/live/telesambre/telesambre-audio_fre=128000-video=2600000.m3u8
+
+# update link : https://www.vedia.be/www/live# #
+#EXTINF:-1 tvg-id="Belgique" tvg-name="Vedia" tvg-logo="https://www.vedia.be/www/files/images/logoVedia.png" group-title="Belgique",Vedia
+https://tvl-live-prp.fl.freecaster.net/live/vedia/vedia-audio_fre=128000-video=5200000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fvx7xak.png" group-title="",Voo Sport 1 FHD
+http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1896
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bat6ybf.png" group-title="",ZES CRIME
+http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1902
+
+
+#######
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/belge.png?raw=true",★★★★★★★★★★[COLOR orange]Belgique Autres Langues[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AjtOEQk.png" group-title="",21 Bis
+http://bhutan.thomasmore.be/elemental_hls/hls_stream_iphone_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ll7XgdD.png" group-title="",AjoinMusic
+https://5592f056abba8.streamlock.net/citytv_2/citytv_2/playlist.m3u8?ref=Ajoinsite
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/600QxyO.png" group-title="",ATV
+http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2OJjojo.png" group-title="",BVN
+https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Q15Sfd.png" group-title="",Canvas
+https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HIfVeW4.png" group-title="",CANVAS (OPT-2)
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Belgium/5e19eae16ce3652.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3PMrXgo.png" group-title="",Caz HD
+http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1866
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s8Eo7fA.png" group-title="BELGIUM",City Music TV
+http://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://audiovisual.ec.europa.eu/presentation/img/content/03-EBS/01-EBS/ebs-LOGO.png" group-title="",EbS
+https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8?filter=(systemBitrate%3C5000000%26%26type==%22video%22%7C%7CsystemLanguage==%22int%22)
+#https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_int=48000-video=2600000.m3u8
+#EXTINF:-1 tvg-logo="http://audiovisual.ec.europa.eu/presentation/img/content/03-EBS/01-EBS/ebs-LOGO.png" group-title="",EbSplus
+https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8?filter=(systemBitrate%3C5000000%26%26type==%22video%22%7C%7CsystemLanguage==%22int%22)
+#https://euc-live.fl.freecaster.net/live/eucom/ebsp-audio_int=48000-video=2600000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iMz0APK.png" group-title="",Een
+https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iMz0APK.png" group-title="",EEN HD
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Belgium/cbb95a9f033077e.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l6NKWlA.png" group-title="",HLN LIVE
+https://dpg-eventstreams.akamaized.net/hlnlive-tzo/streamx/hlnlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k1Mka04.jpg" group-title="",JOE fm
+https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZZB4gEP.png" group-title="",KADET TV
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Belgium/aed6e9b07688b55.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fCwcnMQ.png" group-title="",KETNET TV
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Belgium/b888fe6f57334a2.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fCwcnMQ.png" group-title="",Ketnet (OPT-2)
+https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CoPP6vu.png" group-title="",Ketnet Junior
+http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+
+#EXTINF:-1 tvg-logo="https://klara.be/s/i/3KP5XWCyqhYS21n-.png" group-title="",klara
+https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/live-audio_track_0_0_dut=128000-video_track=3000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2MalyLh.jpg" group-title="", MNM
+https://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3N6h89L.png" group-title="",Q2 TV
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Belgium/7036a975dfd3e5d.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u9cYVmP.png" group-title="",QMusic 103.3 FM Bruges
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2OEI0Ec.png" group-title="Sport",Play Sports 1 
+http://85.203.33.205:80/CvEA6MQ61/UHSu6z13/26835
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhIbxDG.png" group-title="Sport",Play Sports 2 
+http://85.203.33.205:80/CvEA6MQ61/UHSu6z13/26836
+
+#EXTINF:-1 tvg-logo="https://radio1.be/s/i/UjyddXBwf_I51Bsj.png" group-title="",Radio1
+https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/live-audio_track_0_0_dut=128000-video_track=3000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://radio2.be/modules/vrt/radio2/radio2_core/images/manifest/icon-512.png" group-title="",Radio2
+https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/live-audio_track_0_0_dut=128000-video_track=3000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rZtWDRB.png" group-title="",Radio PROS 105.8 FM Denderhoutem
+http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EV4NlTF.png" group-title="",ROB-tv
+http://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lqmX3yt.jpg" group-title="",SRF 1 (TT)
+plugin://script.tvtap/play/687/play.pvr
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S8BSRxr.png" group-title="",SRF Info (TT)
+plugin://script.tvtap/play/686/play.pvr
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fh5p1DS.png" group-title="",SRF Zwei (TT)
+plugin://script.tvtap/play/688/play.pvr
+
+#EXTINF:-1 tvg-logo="http://sterktv.net/wene/2019/10/cropped-sterk-logo-1-2.png" group-title="",STERK TV
+http://137.74.205.201/live2/sterk-3mbps.m3u8
+
+#https://radioplus.be/#/stubru/herbeluister #
+#EXTINF:-1 tvg-logo="https://stubru.be/images/ios/touch-icon-ipad-retina.png" group-title="BELGIUM",StuBru
+https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://stubru.be/images/ios/touch-icon-ipad-retina.png" group-title="BELGIUM",StuBru (Audio)
+https://live-radio-cf-vrt.akamaized.net/groupc/live/f404f0f3-3917-40fd-80b6-a152761072fe/live.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.topradio.be/assets/page/img/favicons/favicon-196x196.png" group-title="",TOPradio (TWITCH)
+plugin://plugin.video.twitch/?channel_id=156527835&amp;mode=play
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xTyUJTs.jpg" group-title="",TVL
+http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xAITEOQ.png" group-title=""TV Oost
+http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/09wT3HJ.png" group-title="",UN Web TV - United Nations TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uwxXxEJ.png" group-title="",VIER
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Belgium/81c1ad5b0b3a729.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kZOrSyv.png" group-title="",VIJF TV
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Belgium/0c6747668f6636c.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kZOrSyv.png" group-title="",Vijf (OPT-2)
+http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1894
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hs49TFl.png" group-title="",VITAYA TV
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Belgium/0e7746afdd098e7.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djGJlC5.png" group-title="",VTM KAZOOM
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Belgium/e5bf24d96278765.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Khd93SF.jpg" group-title="",VTM Kids
+http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1901
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/esIVk4V.png" group-title="",VTM TV
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Belgium/c392203a92813bc.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-language="Dutch" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="Belgique",XITE
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
+
+###########
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/raw/master/Images/Logo%20Pays/belge.png?raw=true",★★★★★★★★★★[COLOR orange]Update needed[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0gXVzbC.png" group-title="",AB3
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNnVizU.png" group-title="",ABXPLORE
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dA31yD6.png" group-title="",Bruzz
+https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5KcI03X.png" group-title="",Bruzz (OPT-2)
+https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b450000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5KcI03X.png" group-title="",Bruzz (OPT-3)
+https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b850000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rcfUiWV.jpg" group-title="",Bruzz (OPT-4)
+https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b3000000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rcfUiWV.jpg" group-title="België",BE | Bruzz
+http://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXEq8tx.png" group-title="",CAZ 0
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/60PHcN1.png" group-title="",CAZ 2 0
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="België",BE | Focus
+https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sMtwdKk.png" group-title="BELGIUM",Focus
+https://hls-origin01-focus-wtv.cdn01.rambla.be/adliveorigin-focus-wtv/_definst_/AK4e8O.smil/chunklist_b3000000.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.focus-wtv.be/sites/all/themes/focus/logo.png" group-title="Belgium",Focus TV
+https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ARXpX7.smil/chunklist_b850000.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.focus-wtv.be/sites/all/themes/focus/logo.png" group-title="Belgium",Focus WTV
+https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist_b3000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://mnm.be/favicons/favicon-196x196.png" group-title="BELGIUM",MNM
+https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/live-audio_track_0_dut=128000-video=3000000.m3u8
+
+# https://qmusic.be/player/qmusic_be/index.html?showVideo=true #
+#EXTINF:-1 tvg-logo="https://qmusic.be/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png" group-title="BELGIUM",Qmusic (UPD)
+https://dcs-live.apis.anvato.net/server/play/GBy52sn59BJUpw223/rendition.m3u8?track=video-4&anvsid=i177603640-nebf65f4f-4d6f-4f27-adad-5858f97774f1&ts=1600571427&anvtrid=c0add5af33fb073f260e8c16289dc118
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sMtwdKk.png" group-title="BELGIUM",WTV
+https://hls-origin01-focus-wtv.cdn01.rambla.be/adliveorigin-focus-wtv/_definst_/VzXNby.smil/chunklist_b3000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="België",BE | WTV
+https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ARXpX7.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOKpfZ0.png" group-title="",Sporza
+
+
+
+
