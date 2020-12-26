@@ -164,11 +164,11 @@ plugin://plugin.video.youtube/play/?video_id=FvXMrabDU6g
 
 # update link https://www.youtube.com/user/ctmq #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Telemag.png?raw=true" group-title="Quebec TV",Télé-Mag Québec (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=QaI4IPDtIMo
+plugin://plugin.video.youtube/play/?video_id=EBAANLw3AEM
 
 # update link https://www.youtube.com/user/bellahdjel #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/BelmediaTV.png?raw=true" group-title="Canadian TV",Belmediatv (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=BqMVbY3bne4
+plugin://plugin.video.youtube/play/?video_id=WK-A0vnutsU
 
 # update link https://www.youtube.com/channel/UCTXxddY-rEtBTn1hMaqEaHQ #
 #EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Quebec TV",TQ5 (YT) (UPD)
@@ -182,17 +182,9 @@ plugin://plugin.video.youtube/play/?video_id=zI52nfTwONw
 #EXTINF:-1 tvg-id="Quebec" tvg-name="TV Témis" tvg-logo="http://temis.tv/resources/images/logo-small-blanc.png"group-title="Quebec TV",TV Témis (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=uuEyLVh_vc8
 
-# https://www.youtube.com/channel/UCsf94EmF1S2dgL9_EtQ3gJg #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (YT) (OFFLINE)
-plugin://plugin.video.youtube/play/?video_id=avqJMULh-WQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (OPT-2) (TWITCH)
-plugin://plugin.video.twitch/?channel_id=258878983&amp;mode=play
-
-# https://www.youtube.com/channel/UCO3BwNN_1uT00Nd7pGKoyDA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (YT) (UPD) (OFF LINE)
-plugin://plugin.video.youtube/play/?video_id=j2GdFbpI46k
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (OPT-2) (TWITCH)
-plugin://plugin.video.twitch/?channel_id=585407599&amp;mode=play
+# update link  https://www.youtube.com/channel/UC0njl-y39pJOwd3iufK7RJQ #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t9MC2Uj.png" group-title="Quebec TV",CILE Havre-Saint-Pierre (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=A0Gdj6eMgeKQ
 
 # https://www.radiotalbot.tv/ https://www.twitch.tv/radiotalbot
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hDHgHJR.png" group-title="",RadioTalbot (TWITCH) (Mardi @ Jeudi . 20h00)
@@ -224,9 +216,17 @@ plugin://plugin.video.twitch/?channel_id=426528251&amp;mode=play
 #EXTINF:-1 tvg-logo="https://ckiafm.org/images/frontend/CKIA-afrique.png" group-title="",Québec, réveille! (YT) (UPD) (Off Line)
 plugin://plugin.video.youtube/play/?video_id=RsDywUsR438
 
-# update link  https://www.youtube.com/channel/UC0njl-y39pJOwd3iufK7RJQ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t9MC2Uj.png" group-title="Quebec TV",CILE Havre-Saint-Pierre (YT) (UPD) (Off Line)
-plugin://plugin.video.youtube/play/?video_id=AUISenV3ocg
+# https://www.youtube.com/channel/UCsf94EmF1S2dgL9_EtQ3gJg #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (YT) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=avqJMULh-WQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (OPT-2) (TWITCH)
+plugin://plugin.video.twitch/?channel_id=258878983&amp;mode=play
+
+# https://www.youtube.com/channel/UCO3BwNN_1uT00Nd7pGKoyDA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (YT) (UPD) (OFF LINE)
+plugin://plugin.video.youtube/play/?video_id=j2GdFbpI46k
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (OPT-2) (TWITCH)
+plugin://plugin.video.twitch/?channel_id=585407599&amp;mode=play
 
 
 ####
