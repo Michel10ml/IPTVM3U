@@ -10,17 +10,6 @@ plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
 
 
 
-
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Debrouillage.PNG?raw=true",★★★★★[COLOR black]Debrouillage [/COLOR]★★★★★
-0.0.0.0
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Quebec TV",LCN master
-https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Quebec TV",LCN 1080
-https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/high_1080p/high_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Quebec TV",LCN 720 
-https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/med_720p/med_720p.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",★★★★★★★★★★[COLOR mediumblue]Quebec TV[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
 
@@ -206,6 +195,16 @@ plugin://plugin.video.youtube/play/?video_id=Z0t8KczeFJA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/16JkH3H.png" group-title="Culture Urbaine Sport et Hip-hop Montreal Quebec",Kushtard Media (TWITCH)
 plugin://plugin.video.twitch/?channel_id=431778635&amp;mode=play
 
+
+# https://www.youtube.com/channel/UCO3BwNN_1uT00Nd7pGKoyDA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=JLs5uKhZwX8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (OPT-2) (TWITCH)
+plugin://plugin.video.twitch/?channel_id=585407599&amp;mode=play
+
+
+########
+
 # https://www.youtube.com/channel/UCNNsE_Xj2ndAAnQETObPrVQ https://kracradio.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Quebec TV",kracradio (YT) (Off Line)
 plugin://plugin.video.youtube/play/?video_id=Ht_wyflI6rM
@@ -222,17 +221,20 @@ plugin://plugin.video.youtube/play/?video_id=avqJMULh-WQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (OPT-2) (TWITCH)
 plugin://plugin.video.twitch/?channel_id=258878983&amp;mode=play
 
-# https://www.youtube.com/channel/UCO3BwNN_1uT00Nd7pGKoyDA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (YT) (UPD) (OFF LINE)
-plugin://plugin.video.youtube/play/?video_id=j2GdFbpI46k
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (OPT-2) (TWITCH)
-plugin://plugin.video.twitch/?channel_id=585407599&amp;mode=play
+
 
 
 ####
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Debrouillage.PNG?raw=true",★★★★★[COLOR black]Debrouillage Terminer[/COLOR]★★★★★
 plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
+
+EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Quebec TV",LCN master
+https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/master.m3u8
+EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Quebec TV",LCN 1080
+https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/high_1080p/high_1080p.m3u8
+EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Quebec TV",LCN 720 
+https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/med_720p/med_720p.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/BWsxm4p.png" group-title="Quebec TV",MOI ET CIE (off line)
 https://chaine_tva_uls-lh.akamaihd.net/i/MOIETCIE_1@697478/master.m3u8
